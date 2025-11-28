@@ -7,8 +7,7 @@ The project uses Next.js and Tailwind CSS with a component-based structure.
 ---
 
 ## 🔗 Live Demo
-Add your deployed link here:
-[Your Vercel URL]
+[Link](https://aura-ai-landing-page-chi.vercel.app/)
 
 ---
 
@@ -20,8 +19,7 @@ Add your deployed link here:
 | UI Generation     | ✔️     | Inspired by Vercel v0 |
 | Responsiveness    | ✔️     | Mobile + Desktop optimized |
 | Hero Section      | ✔️     | Heading, subtext, two CTAs |
-| Features Section  | ✔️     | Refactoring, Debugging, Language Support |
-| Optional Section  | ✔️     | Pricing section included |
+| Pricing Section   | ✔️     | Pricing section included |
 | Footer            | ✔️     | Clean and minimal |
 
 ---
